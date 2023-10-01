@@ -3,4 +3,6 @@ hello !
 
 next change 
 
-feature change 
+feature change
+
+other person change 
